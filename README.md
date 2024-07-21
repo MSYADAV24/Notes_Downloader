@@ -5,7 +5,7 @@ BCS - Notes | Previous Exam Papers | Syllabus
 Here You Can Find All Notes and Exam Papers of BCS for All Semesters.
 
 # Live Demo
-https://notespoint.netlify.app/
+https://notesdownloader.netlify.app/
 
 ![np1](https://github.com/harshkumarjangir/Notes-Point/assets/108256249/676c1e2f-bd65-4dca-b1ce-85511baec8db)
 
