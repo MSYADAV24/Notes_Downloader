@@ -1,4 +1,4 @@
-# Notes-Point
+# Notes-Downloader
 Notes website for BCS 
 Notes based on Cocsit College, Latur
 BCS - Notes | Previous Exam Papers | Syllabus
